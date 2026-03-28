@@ -8,7 +8,7 @@
 
 - linux
   - [basic_linux_terminal.md](linux/basic_linux_terminal.md)
-  - [file_management.md](linux/file_management.md)
+  - [file_managment.md](linux/file_managment.md)
   - [permissions.md](linux/permissions.md)
   - [processes.md](linux/processes.md)
 - networking
